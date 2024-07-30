@@ -1,0 +1,128 @@
+@media only screen and (min-width:0px) and (max-width:575px){
+    nav{
+        flex-direction: column;
+        align-items: center;
+}
+    .banner-container {
+        flex-direction: column;
+        padding: 10px;
+}
+form::after{
+    display: none;
+}
+.textbanner h1 {
+    font-size: 35px;
+  font-weight: 700;
+  line-height: 50px;   
+}
+.btnbox button {
+    padding: -1px 30px -1px 30px;
+    font-size: 13px;
+    line-height: 14px;
+}
+.bookbtn {
+    padding: -1px 30px -1px 30px;
+    font-size: 13px;
+    line-height: 14px;
+}
+.minibox{
+    flex-basis: 40%;
+}
+.highlightsinner .box{
+    flex-direction: column;
+}
+.highlightsinner h2{
+    text-align: center;
+}
+.highlightsinner p{
+    text-align: center;
+}
+.bg-blue2{
+    margin-left: 10px;
+  }
+  .container-4{
+    flex-direction: column;
+  }
+  .digitalbox2inner{
+    flex-direction: column;
+  }
+  .digitalbox2inner h2{
+    font-size: 30px;
+    line-height: normal;
+    padding: 10px;
+  }
+  .digitalbox2inner p{
+    font-size: 13px;
+    text-align: center;
+    line-height: normal;
+    padding: 10px;
+  }
+  .digitalbox2inner ul{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 30px;
+    margin-left: 15px;
+  }
+  .digitalbox2inner ul li{
+    font-size: 14px;
+    text-align: center;
+  }
+  .digitalbox3inner{
+    flex-direction: column;
+    
+  }
+  .digitalbox3inner1{
+    padding: 0px;
+
+
+  }
+  .digitalbox3inner1 ul li{
+    font-size: 13px;
+    text-align: center;
+    
+  }
+  .container-6>h2{
+    text-align: center;
+    font-size: 18px;
+    
+    
+  }
+  .DIGITALBOXINNER2{
+    flex-direction: column;
+  }
+  .container-6>p{
+    text-align: center;
+    text-align: justify;
+  }
+  .container-6>.boxes-6{
+    justify-content: center;
+  }
+  .container-6>.boxes-6>.box-6{
+    flex-basis: 100%;
+  }
+  .container-7 > .boxes-7 {
+    justify-content: center;
+    gap: 20px;
+  }
+  .container-7 > .boxes-7 > .box-7 {
+    flex-basis: 90%;
+  }
+  .blue-box-7>img{
+    display: none;
+  }
+
+  .blue-box-7 > .content-7 {
+    width: 90%;
+  }
+  .container-9>h2{
+    font-size: 18px;
+  }
+  footer>.upper-sec>p{
+    font-size: 12px;
+    font-weight: lighter;
+  }
+  footer>.lower-sec>p{
+    font-size: 12px;
+    font-weight: lighter;
+  }
+}
